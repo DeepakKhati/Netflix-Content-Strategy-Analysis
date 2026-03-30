@@ -86,7 +86,6 @@ Power BI Desktop | Power Query | DAX | Kaggle Dataset
 Netflix Movies and TV Shows — Shivam Bansal (Kaggle)
 
 ## Screenshots
-## Screenshots
 
 ### Content Overview
 ![Page 1](https://github.com/DeepakKhati/Netflix-Content-Strategy-Analysis/blob/main/Screenshot/01_overview.png)
