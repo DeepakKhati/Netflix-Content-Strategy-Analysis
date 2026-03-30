@@ -89,14 +89,14 @@ Netflix Movies and TV Shows — Shivam Bansal (Kaggle)
 ## Screenshots
 
 ### Content Overview
-![Page 1]()
+![Page 1](https://github.com/DeepakKhati/Netflix-Content-Strategy-Analysis/blob/main/Screenshot/01_overview.png)
 
 ### Content By Country
-![Page 2]()
+![Page 2](https://github.com/DeepakKhati/Netflix-Content-Strategy-Analysis/blob/main/Screenshot/02_Content.png)
 
 ### Content Addition Trends 2008-2021
-![Page 3]()
+![Page 3](https://github.com/DeepakKhati/Netflix-Content-Strategy-Analysis/blob/main/Screenshot/03_Trends.png)
 
 ### Top Genres On Netflix 
-![Page 4]()
+![Page 4](https://github.com/DeepakKhati/Netflix-Content-Strategy-Analysis/blob/main/Screenshot/04_genre.png)
 
